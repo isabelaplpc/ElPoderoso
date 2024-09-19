@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="ElPoderososalud" height="200px" src="https://estaticos.elcolombiano.com/binrepository/953x565/86c0/780d565/none/11101/WSIH/cano-henry_44095114_20240102162433.png">
+                <img alt="ElPoderososalud" height="200px" src="https://raw.githubusercontent.com/isabelaplpc/ElPoderoso/main/imagenes/Poderosodelamonta%C3%B1a.png">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
